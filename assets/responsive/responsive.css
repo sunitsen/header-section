@@ -1,0 +1,15 @@
+@media only screen and (max-width: 991px) {
+  .main-nav .nav-link{
+    text-align: center;
+   }
+  
+  .main-nav .nav-link:before {
+  display: none;
+    
+  }
+.main-nav .dropdown{
+  width: 185px;
+  margin: auto;
+
+}
+  }
